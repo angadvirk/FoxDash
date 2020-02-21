@@ -1,5 +1,5 @@
 # FoxDash v1.1
-2D Platformer Game developed in Unity using C#. 
+2D Platformer Game developed from scratch in Unity.
 
 This repository contains all the C# scripts applied to the various objects in the unity project.
 
