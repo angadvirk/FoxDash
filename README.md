@@ -1,8 +1,9 @@
 # FoxDash v1.1
-2D Platformer Game developed from scratch in Unity, using free artwork from the Unity Asset Store. 
+2D Platformer Game developed from scratch in Unity, using free artwork & sound effects from the Unity Asset Store. 
 - Created the gameObjects (player, enemies, collectibles, ladders, etc.) in Unity, wrote and added scripts to them. 
 - Levels designed by creating tilemaps from level art and using Unity's built-in 'tile palette' to draw the levels.
 - Wrote all the code in the game from scratch: player controller, enemy AI, collectibles, ladders, dying & restarting the game, keeping track of deaths/collectibles/enemies defeated, changing from level 1 to level 2, playing music, etc.
+- Wrote & produced the music.
 
 This repository contains all the C# scripts applied to the various objects in the unity project.
 
