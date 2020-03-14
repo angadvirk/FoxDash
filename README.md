@@ -9,3 +9,6 @@ This repository contains all the C# scripts applied to the various objects in th
 
 My dropbox: https://www.dropbox.com/home/GameDev/Completed%20Projects/FoxDash/Builds contains working builds of the game
 that can be played on Windows or Mac computers. Download the .dmg file for Mac or the installer for Windows.
+
+v1.1:
+- Added 'pause' option. Player can resume or quit from the pause menu. 
